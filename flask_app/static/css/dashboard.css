@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bord{
+    border: 2px solid black;
+    margin: 20px;
+}
+
+header{
+    text-align: center;
+    background-color: #A39A92;
+    padding: 20px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40%;
+}
+
+body{
+    background-color: #F4EBD9;
+}
+
+.dimage{
+    display: block;
+    width: 350px;
+    border-radius: 10%;
+}
+
+.center{
+    text-align: center;
+}
+
+.brand{
+    text-decoration: unset;
+    color: unset;
+}
+
+.brand:hover{
+    color: unset;
+}
+
+.container2{
+    width: 50%;
+    margin: 0 auto;
+}
